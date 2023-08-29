@@ -90,89 +90,133 @@ export const items = [
 	},
 
 	{
-		'id': 'dc-electroventilador',
-		'name': 'Electroventilador Mini Cooper Clubman 350watt 3 Pins',
+		'id': 'dc-bobinaignicion6',
+		'name': 'Bobina Ignición Ford Ka-Fiesta',
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '17422752632',
-		'marca': 'Mini',
-		'pesoNetoUnitario': 'PENDIENTE',
-		'descripcion': 'Electroventilador original Mini Cooper, hecho en Alemania, equipo original marca Mahle Hella.',
-		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_665761-MLA51152086278_082022-F.webp',
-		'categoria': 'Electroventiladores',
+		'oem': 'DQ-8026/B1401',
+		'marca': 'Ford',
+		'pesoNetoUnitario': '0,621',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_946007-MLA31551445173_072019-F.webp',
+		'categoria': 'Bobina Ignición',
 		'codigoCliente': 'PENDIENTE',
 		'cliente':'FCH'
 	},
 
 	{
-		'id': 'dc-electroventilador2',
-		'name': 'Electroventilador Mini Cooper One 260 W 3 Pins R50/R52/R53',
+		'id': 'dc-bobinaignicion7',
+		'name': 'Bobina Ignición Ford Fiesta/Ka 3 Pines',
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
-		'characters': 'lorem lorem lorem',
+		'characters': 'lorem loren lorem',
 
-		'oem': '17101475577',
-		'marca': 'Mini',
-		'pesoNetoUnitario': 'PENDIENTE',
+		'oem': 'B1395',
+		'marca': 'Ford',
+		'pesoNetoUnitario': '0,73',
 		'descripcion': 'lorem lorem',
-		'url': 'https://i.ebayimg.com/images/g/vPsAAOSwmsdgISJr/s-l500.jpg',
-		'categoria':'Electroventiladores'
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_677445-MLA31578516448_072019-F.webp',
+		'categoria': 'Bobina Ignición',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'FCH'
 	},
 
 	{
-		'id': 'dc-electroventilador3',
-		'name': 'Electroventilador  Sandero /Logan /Dacia Mcv 1.6 16v 1.5 E4',
+		'id': 'dc-bobinaignicion8',
+		'name': 'Bobina Ignición Renault Clio',
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
-		'characters': 'lorem lorem lorem',
+		'characters': 'lorem loren lorem',
 
-		'oem': '6001550562',
+		'oem': 'DQ-8076/B1419',
 		'marca': 'Renault',
-		'pesoNetoUnitario': 'PENDIENTE',
+		'pesoNetoUnitario': '0,20',
 		'descripcion': 'lorem lorem',
-		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_608897-MLA70418192692_072023-F.webp',
-		'categoria':'Electroventiladores'
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_735812-MLA32872328176_112019-F.webp',
+		'categoria': 'Bobina Ignición',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'FCH'
 	},
 
 	{
-		'id': 'dc-electroventilador4',
-		'name': 'Electroventilador  Sandero / Logan /Dacia Mcv 1.4/1.6',
+		'id': 'dc-bobinaignicion9',
+		'name': 'Bobina Ignición Vw Golf/Bora 1,6 3 Pines',
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
-		'characters': 'lorem lorem lorem',
+		'characters': 'lorem loren lorem',
 
-		'oem': '6001550769',
-		'marca': 'Renault',
-		'pesoNetoUnitario': 'PENDIENTE',
+		'oem': 'B1425',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '0,58',
 		'descripcion': 'lorem lorem',
-		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_782916-MLA40577836116_012020-F.webp',
-		'categoria':'Electroventiladores',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_603700-MLA31551485189_072019-F.webp',
+		'categoria': 'Bobina Ignición',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'FCH'
 	},
 
 	{
-		'id': 'dc-electroventilador5',
-		'name': 'Electroventilador Renault Clio',
+		'id': 'dc-bobinaignicion10',
+		'name': 'Bobina Ignición Vw',
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
-		'characters': 'lorem lorem lorem',
+		'characters': 'lorem loren lorem',
 
-		'oem': '7701070217/V9010780',
-		'marca': 'Renault',
-		'pesoNetoUnitario': 'PENDIENTE',
+		'oem': '32905106',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '1,00',
 		'descripcion': 'lorem lorem',
-		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_848789-MLA42519580077_072020-F.webp',
-		'categoria':'Electroventiladores'
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_700076-MLA31296022507_072019-F.webp',
+		'categoria': 'Bobina Ignición',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'FCH'
 	},
 
 	{
-		'id': 'dc-electroventilador6',
+		'id': 'dc-bobinaignicion11',
+		'name': 'Bobina Ignición Vw Gol',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': 'DQ-8119/B1427',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '0,50',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_941365-MLA49764774814_042022-F.webp',
+		'categoria': 'Bobina Ignición',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'FCH'
+	},
+
+	{
+		'id': 'dc-bobinaignicion12',
+		'name': 'Bobina Ignición Vw Golf/Bora 1,6 4 Pines',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': 'B1421',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '1,00',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_800128-MLA45597061338_042021-F.webp',
+		'categoria': 'Bobina Ignición',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'FCH'
+	},
+
+	{
+		'id': 'dc-electroventilador',
 		'name': 'Electroventilador Chevrolet Corsa 1.4 Nafta 94-96- 1.6',
 		'publisher': 'otro',
 		'pais': 'Brasil',
@@ -185,26 +229,138 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_601679-MLA54402480333_032023-F.webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': '1820',
+		'cliente':'FCH'
 	},
 
 	{
-		'id': 'dc-electroventilador7',
-		'name': 'Electroventilador Fiat Palio Fire - Uno 1.3 Mpi',
+		'id': 'dc-electroventilador2',
+		'name': 'Electroventilador Chevrolet Corsa Spirit - Classic 2012 Completo (Nuevo)',
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '46816876',
-		'marca': 'Fiat',
-		'pesoNetoUnitario': '1,21',
+		'oem': '5020627',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': '2,74',
 		'descripcion': 'lorem lorem',
-		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_874614-MLA33012274548_112019-F.webp',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_712501-MLA28974402210_122018-F.webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': '3140',
+		'cliente':'FCH'
+	},
+
+	{
+		'id': 'dc-electroventilador3',
+		'name': 'Electroventilador Corsa Spirit - Classic 2012 >',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '5020627',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': '1,30',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_712501-MLA28974402210_122018-F.webp',
+		'categoria': 'Electroventiladores',
+		'codigoCliente': '4650',
+		'cliente':'FCH'
+	},
+
+	{
+		'id': 'dc-electroventilador4',
+		'name': 'Electroventilador Chevrolet Corsa II 09> / Agile / Montana',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '93343243',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': '2,20',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_751408-MLA31114208511_062019-F.webp',
+		'categoria': 'Electroventiladores',
+		'codigoCliente': '4330',
+		'cliente':'FCH'
+	},
+
+	{
+		'id': 'dc-electroventilador5',
+		'name': 'Electroventilador Chevrolet S10',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '1842042',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_664865-MLA41925925046_052020-F.webp',
+		'categoria': 'Electroventiladores',
+		'codigoCliente': '4260',
+		'cliente':'FCH'
+	},
+
+	{
+		'id': 'dc-electroventilador6',
+		'name': 'Electroventilador Sonic/Spin 1.3/1.8 Prisma 1.4 Onix 1.4- Cobalt 1.3/1.8 Ficha C/ Resistencia',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '94733314',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': '2,18',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_812024-MLA41583002881_042020-F.webp',
+		'categoria': 'Electroventiladores',
+		'codigoCliente': '4590',
+		'cliente':'FCH'
+	},
+
+	{
+		'id': 'dc-electroventilador7',
+		'name': 'Electroventilador Chevrolet Meriva 1.8 2003/....',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '93341072',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': '1,80',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/vm60QJ3/93341072.jpg',
+		'categoria': 'Electroventiladores',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'FCH'
 	},
 
 	{
 		'id': 'dc-electroventilador8',
+		'name': 'Electroventilador Chevrolet Aveo 1.6 16v 2009/…',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '98808149',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_641751-MLA45139131935_032021-F.webp',
+		'categoria': 'Electroventiladores',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'FCH'
+	},
+
+	{
+		'id': 'dc-electroventilador9',
 		'name': 'Electroventilador Fiat Duna - Uno - 147 - Regatta Diesel',
 		'publisher': 'otro',
 		'pais': 'Brasil',
@@ -217,26 +373,192 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_914448-MLB42334231296_062020-F.webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': '1250',
+		'cliente':'FCH'
 	},
-	
+
 	{
-		'id': 'dc-electroventilador9',
-		'name': 'Electroventilador Fiat Palio III Fire 1.4 (09/18)Sin A/A',
+		'id': 'dc-electroventilador10',
+		'name': 'Duna-Uno-147 M.Tipo Aspirante',
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '51804906',
+		'oem': '9130451106',
 		'marca': 'Fiat',
-		'pesoNetoUnitario': 'PENDIENTE',
+		'pesoNetoUnitario': '2,02',
 		'descripcion': 'lorem lorem',
-		'url': 'https://i.ibb.co/G08N31p/51804906.jpg',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_914448-MLB42334231296_062020-F.webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': '1110',
+		'cliente':'FCH'
 	},
 
 	{
-		'id': 'dc-electroventilador10',
+		'id': 'dc-electroventilador11',
+		'name': 'Electroventilador Palio 1.6 Sin A/A 230 W 1996/…',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '46815901/51820785',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': '1,99',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/MsxcCXJ/46815901.jpg',
+		'categoria': 'Electroventiladores',
+		'codigoCliente': '1880',
+		'cliente':'FCH'
+	},
+
+	{
+		'id': 'dc-electroventilador12',
+		'name': 'Electroventilador Fire S/AA Uno 1.3 MPI- Celta 1.4 11/18',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '46815900',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': '1,56',
+		'descripcion': 'lorem lorem',
+		'url': 'https://apoloautopecas.com.br/site/wp-content/uploads/00003692.jpg',
+		'categoria': 'Electroventiladores',
+		'codigoCliente': '2310',
+		'cliente':'FCH'
+	},
+
+	{
+		'id': 'dc-electroventilador13',
+		'name': 'Electroventilador Mobi - Uno Novo 1.0/1.4 2010/-> - Palio 2011/-> Fiorino 16/18 Mot. Evo',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '51905874',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': '3,87',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/k6krN1Y/51905874.webp',
+		'categoria': 'Electroventiladores',
+		'codigoCliente': '4390',
+		'cliente':'FCH'
+	},
+
+	{
+		'id': 'dc-electroventilador14',
+		'name': 'Electroventilador Mobi - Uno Novo 1.0/1.4 2010/-> - Palio 2011/-> Fiorino 16/18 Mot. Evo',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '51905874',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': '3,87',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/jRMWW61/51905874-2.webp',
+		'categoria': 'Electroventiladores',
+		'codigoCliente': '5240',
+		'cliente':'FCH'
+	},
+
+	{
+		'id': 'dc-electroventilador15',
+		'name': 'Electroventilador Toro/Renegade 1.4 D /2.0 JTD (Lado Izq.) 2016/….',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '52127332',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': '1,67',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/gV3Wmrc/52127332.webp',
+		'categoria': 'Electroventiladores',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'FCH'
+	},
+
+	{
+		'id': 'dc-electroventilador16',
+		'name': 'Electroventilador Toro/Renegade 1.4 D /2.0 JTD (Lado Der.) 2016/….',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '52127332',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': '1,96',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/gV3Wmrc/52127332.webp',
+		'categoria': 'Electroventiladores',
+		'codigoCliente': '1587',
+		'cliente':'FCH'
+	},
+
+	{
+		'id': 'dc-electroventilador17',
+		'name': 'Electroventilador Fiat Uno/Fiorino/Palio/Siena 1.3/1.6 1996/…',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '46746921',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': '2,43',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_796021-MLA54226432211_032023-F.webp',
+		'categoria': 'Electroventiladores',
+		'codigoCliente': '4910',
+		'cliente':'FCH'
+	},
+
+	{
+		'id': 'dc-electroventilador18',
+		'name': 'Electroventilador Palio-Uno Fire Naf.S/A.A.-Corsa 1.6 Naf. S/AA',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '698601R/46764671',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': '1,87',
+		'descripcion': 'lorem lorem',
+		'url': 'https://fcbyfauci.com/imgs/productos/1001015.jpg',
+		'categoria': 'Electroventiladores',
+		'codigoCliente': '2270',
+		'cliente':'FCH'
+	},
+
+	{
+		'id': 'dc-electroventilador19',
+		'name': 'Electroventilador Fiat Qubo/Fiorino 1.4 2015/…',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '51091021',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/4NpZmYL/51091021.png',
+		'categoria': 'Electroventiladores',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'FCH'
+	},
+
+	{
+		'id': 'dc-electroventilador20',
 		'name': 'Electroventilador Fiesta 1.3 (94/99) Max 1.4 TDI (02/11)',
 		'publisher': 'otro',
 		'pais': 'Brasil',
@@ -249,134 +571,62 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_731514-MLA44046434446_112020-F.webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': '2250',
+		'cliente':'FCH'
 	},
 
 	{
-		'id': 'dc-electroventilador11',
-		'name': 'Electroventilador Citroen Berlingo 1.4- Xsara 1.8 16v-1.9d',
+		'id': 'dc-electroventilador21',
+		'name': 'Electroventilador Fiesta 1.6 99/02 C A/A- Ka 1.0/1.3/1.6',
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '1253.87',
-		'marca': 'Peugeot',
+		'oem': '96FS-8K620-SS',
+		'marca': 'Ford',
+		'pesoNetoUnitario': '3,70',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_731514-MLA44046434446_112020-F.webp',
+		'categoria': 'Electroventiladores',
+		'codigoCliente': '2110',
+		'cliente':'FCH'
+	},
+
+	{
+		'id': 'dc-electroventilador22',
+		'name': 'Electroventilador Focus II 1.6/1.8/2.0 2008-2014 Comp.',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '5M5H 8C607AD',
+		'marca': 'Ford',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
-		'url': 'https://a.allegroimg.com/original/11f77e/9beb07154357a6dab9197f3af9b4/WENTYLATOR-CHLODNICY-OE-1253-63-1253-66-1253-87-Producent-czesci-goRabbit',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_829712-MLA52070013042_102022-F.webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': '4250',
+		'cliente':'FCH'
 	},
 
 	{
-		'id': 'dc-electroventilador12',
-		'name': 'Electroventilador Citroen Berlingo 1.4 1.8',
+		'id': 'dc-electroventilador23',
+		'name': 'Electroventilador Ecosport Kinetic C/Encauzador 2010/..',
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '1253.66',
-		'marca': 'Peugeot',
-		'pesoNetoUnitario': '1,88',
+		'oem': '8V51-8C607-AF',
+		'marca': 'Ford',
+		'pesoNetoUnitario': '2,00',
 		'descripcion': 'lorem lorem',
-		'url': 'https://a.allegroimg.com/original/11a98d/c37677c144398d05e9cf7a6cabe5/WENTYLATOR-CHLODNICY-OE-1253-63-1253-66-1253-87',
+		'url': 'https://i.ibb.co/GFsk7Yq/8-V51-8-C607-AF.jpg',
 		'categoria': 'Electroventiladores',
-	},
-
-	{
-		'id': 'dc-electroventilador13',
-		'name': 'Electroventilador Duster 2.0 (11/18) Megane 1.6-1.9td- Clio II',
-		'publisher': 'otro',
-		'pais': 'Brasil',
-		'first_appearance': 'lorem lorem',
-		'characters': 'lorem loren lorem',
-
-		'oem': '1341307',
-		'marca': 'Renault',
-		'pesoNetoUnitario': '1,73',
-		'descripcion': 'lorem lorem',
-		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_710482-MLA32718805092_102019-F.webp',
-		'categoria': 'Electroventiladores',
-	},
-
-	{
-		'id': 'dc-electroventilador14',
-		'name': 'Electroventilador Clio II 1.2 (99/11) 1.6/1.9d (99/03)',
-		'publisher': 'otro',
-		'pais': 'Brasil',
-		'first_appearance': 'lorem lorem',
-		'characters': 'lorem loren lorem',
-
-		'oem': '7701045816',
-		'marca': 'Renault',
-		'pesoNetoUnitario': 'PENDIENTE',
-		'descripcion': 'lorem lorem',
-		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_644858-MLA40865443945_022020-F.webp',
-		'categoria': 'Electroventiladores',
-	},
-
-	{
-		'id': 'dc-electroventilador15',
-		'name': 'Electroventilador Volkswagen Polo Classic 1.6 - 1.8 Nafta',
-		'publisher': 'otro',
-		'pais': 'Brasil',
-		'first_appearance': 'lorem lorem',
-		'characters': 'lorem loren lorem',
-
-		'oem': '6K0959455A',
-		'marca': 'Volkswagen',
-		'pesoNetoUnitario': 'PENDIENTE',
-		'descripcion': 'lorem lorem',
-		'url': 'https://productimages.hepsiburada.net/s/22/550/9952062832690.jpg/format:webp',
-		'categoria': 'Electroventiladores',
-	},
-
-	{
-		'id': 'dc-electroventilador16',
-		'name': 'Electroventilador Volkswagen Fox - Suran - Gol Trend',
-		'publisher': 'otro',
-		'pais': 'Brasil',
-		'first_appearance': 'lorem lorem',
-		'characters': 'lorem loren lorem',
-
-		'oem': '5U0959455B',
-		'marca': 'Volkswagen',
-		'pesoNetoUnitario': '2,20',
-		'descripcion': 'lorem lorem',
-		'url': 'https://eadn-wc05-10061504.nxedge.io/wp-content/uploads/E2-003G-1.png',
-		'categoria': 'Electroventiladores',
-	},
-
-	{
-		'id': 'dc-electroventilador17',
-		'name': 'Electroventilador Astra - Corsa/ Volkswagen Gol 3rd Gen.',
-		'publisher': 'otro',
-		'pais': 'Brasil',
-		'first_appearance': 'lorem lorem',
-		'characters': 'lorem loren lorem',
-
-		'oem': '377959455H',
-		'marca': 'Volkswagen',
-		'pesoNetoUnitario': '1,88',
-		'descripcion': 'lorem lorem',
-		'url': 'https://elektra.vtexassets.com/arquivos/ids/3189534-800-auto?v=637650882417370000&width=800&height=auto&aspect=true',
-		'categoria': 'Electroventiladores',
-	},
-
-	{
-		'id': 'dc-electroventilador18',
-		'name': 'Electroventilador  Gol 3rd Generation - Pointer/Saveiro',
-		'publisher': 'otro',
-		'pais': 'Brasil',
-		'first_appearance': 'lorem lorem',
-		'characters': 'lorem loren lorem',
-
-		'oem': 'F006KM0402',
-		'marca': 'Volkswagen',
-		'pesoNetoUnitario': '1,72',
-		'descripcion': 'lorem lorem',
-		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_859938-MLA31536486263_072019-F.webp',
-		'categoria': 'Electroventiladores',
+		'codigoCliente': '4920',
+		'cliente':'FCH'
 	},
 
 	{
@@ -588,19 +838,309 @@ export const items = [
 	},
 	
 	{
-		'id': 'dc-bomba combustible',
-		'name': 'Bomba De Combustible Sandero/Logan/Duster/Lada Largus/Dacia Mcv 1.4/1.6 16v',	
+		'id': 'dc-bombacombustible',
+		'name': 'Bomba De Combustible 1.0 Bar 150 L/H - A.Romeo-Daewoo',	
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '6001547603/6001546860/6001543456',
+		'oem': 'F000TE0104',
+		'marca': 'Alfa Romeo',
+		'pesoNetoUnitario': '0,30',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_867114-MLA69071766729_042023-F.webp',
+		'categoria':'Bomba Combustible',
+		'codigoCliente': 'BCBO104',
+		'cliente':'FCH'
+	},
+
+	{
+		'id': 'dc-bombacombustible2',
+		'name': 'Bomba De Combustible S10- Blazer /Mwm 2.8TD',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'FE10134',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_808869-MLA51394253223_092022-F.webp',
+		'categoria':'Bomba Combustible',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'FCH'
+	},
+
+	{
+		'id': 'dc-bombacombustible3',
+		'name': 'Bomba De Combustible Cruze 1.8 16v Comp.',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '13577231',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_927557-MLV69536325064_052023-F.webp',
+		'categoria':'Bomba Combustible',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'FCH'
+	},
+
+	{
+		'id': 'dc-bombacombustible4',
+		'name': 'Bomba Combustible 3 Bar Fiat',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'F000TE0103',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': '0,25',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_813056-MLA44548958819_012021-F.webp',
+		'categoria':'Bomba Combustible',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'FCH'
+	},
+
+	{
+		'id': 'dc-bombacombustible5',
+		'name': 'Bomba Combustible 3 Bar Fiat',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'MAM00210',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': '0,25',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_633312-MLA51394671290_092022-F.webp',
+		'categoria':'Bomba Combustible',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'FCH'
+	},
+
+	{
+		'id': 'dc-bombacombustible6',
+		'name': 'Bomba De Combustible Palio 1.4 8v 2004> Comp.',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '51749599',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/ZWB1Fmw/51749599.jpg',
+		'categoria':'Bomba Combustible',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'FCH'
+	},
+
+	{
+		'id': 'dc-bombacombustible7',
+		'name': 'Bomba De Combustible 207-307 1.6-2.0 16v. Comp.',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '9680353080',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://m.media-amazon.com/images/I/51qhVMh4oEL._AC_SL1200_.jpg',
+		'categoria':'Bomba Combustible',
+		'codigoCliente': '1620',
+		'cliente':'FCH'
+	},
+
+	{
+		'id': 'dc-bombacombustible8',
+		'name': 'Bomba De Combustible 307 1.6 2.0 HDI Comp.',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '1525.Q5',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://www.auto-diel.sk/fotky46257/fotos/POMPA-PALIWA-KPL-C-C4-C5-P-307-2-0HDI-1525-Q5.jpg',
+		'categoria':'Bomba Combustible',
+		'codigoCliente': '1621',
+		'cliente':'FCH'
+	},
+
+	{
+		'id': 'dc-bombacombustible9',
+		'name': 'Bomba De Combustible Renault Logan-Sandero',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'TTP456',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
-		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_876352-MLA49913666951_052022-F.webp',
-		'categoria':'Bomba Combustible'
+		'url': 'https://i.ibb.co/mbp3j1Q/TTP456.webp',
+		'categoria':'Bomba Combustible',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'FCH'
+	},
+
+	{
+		'id': 'dc-bombacombustible10',
+		'name': 'Bomba De Combustible Clio II 1.1 - 1.2 Comp.',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '8200027963',
+		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_922584-MLA47351849200_092021-F.webp',
+		'categoria':'Bomba Combustible',
+		'codigoCliente': '1624',
+		'cliente':'FCH'
+	},
+
+	{
+		'id': 'dc-bombacombustible11',
+		'name': 'Bomba De Combustible Logan/Sandero Comp.',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '8200616587',
+		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_720502-MLA31120183854_062019-F.webp',
+		'categoria':'Bomba Combustible',
+		'codigoCliente': '1630',
+		'cliente':'FCH'
+	},
+
+	{
+		'id': 'dc-bombacombustible12',
+		'name': 'Bomba De Combustible Hilux 2.5 TD 2008> Comp.',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '770100K011',
+		'marca': 'Toyota',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_636102-MLA49649146212_042022-F.webp',
+		'categoria':'Bomba Combustible',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'FCH'
+	},
+
+	{
+		'id': 'dc-bombacombustible13',
+		'name': 'Bomba De Combustible Hilux Sw4 TD 2006 Comp.',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '770200K070',
+		'marca': 'Toyota',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/X23N51X/770200-K070.jpg',
+		'categoria':'Bomba Combustible',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'FCH'
+	},
+
+	{
+		'id': 'dc-bombacombustible14',
+		'name': 'Bomba De Combustible Vw Gol Comp.',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '373919051',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_970128-MLA70730519608_072023-F.webp',
+		'categoria':'Bomba Combustible',
+		'codigoCliente': 'PENDIENTE',
+		'cliente':'FCH'
+	},
+
+	{
+		'id': 'dc-bombacombustible15',
+		'name': 'Bomba De Combustible Polo 1.6/1.8 99/.. Comp.',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '6N0919051Q',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_602237-MLA49353425439_032022-F.webp',
+		'categoria':'Bomba Combustible',
+		'codigoCliente': '1633',
+		'cliente':'FCH'
+	},
+
+	{
+		'id': 'dc-bombacombustible16',
+		'name': 'Bomba De Combustible 1.0 Bar 104 C/Kit Básico',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '580453410',
+		'marca': 'PENDIENTE',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_602237-MLA49353425439_032022-F.webp',
+		'categoria':'Bomba Combustible',
+		'codigoCliente': 'BCBO483',
+		'cliente':'FCH'
+	},
+
+	{
+		'id': 'dc-bombacombustible17',
+		'name': 'Bomba De Combustible 3.0 Bar C/ Kit Básico',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '0580453477',
+		'marca': 'PENDIENTE',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/cY1fXFp/0580453477.webp',
+		'categoria':'Bomba Combustible',
+		'codigoCliente': 'BCBO477',
+		'cliente':'FCH'
 	},
 
 	{
