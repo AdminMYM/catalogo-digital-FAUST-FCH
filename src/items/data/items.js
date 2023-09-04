@@ -3,7 +3,7 @@ export const items = [
 		'id': 'dc-bobinaignicion',
 		'name': 'Bobina Ignición Chevrolet Corsa 3 Pines',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -21,7 +21,7 @@ export const items = [
 		'id': 'dc-bobinaignicion2',
 		'name': 'Bobina Ignición Chevrolet Corsa 4 Pines',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -39,7 +39,7 @@ export const items = [
 		'id': 'dc-bobinaignicion3',
 		'name': 'Bobina Ignición Agile',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -57,7 +57,7 @@ export const items = [
 		'id': 'dc-bobinaignicion4',
 		'name': 'Bobina Ignición Fiat Doblo/Palio/Siena 1,4 2 Pines',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -75,7 +75,7 @@ export const items = [
 		'id': 'dc-bobinaignicion5',
 		'name': 'Bobina Ignición Fiat Idea/Palio 1,4 3 Pines',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -93,7 +93,7 @@ export const items = [
 		'id': 'dc-bobinaignicion6',
 		'name': 'Bobina Ignición Ford Ka-Fiesta',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -111,7 +111,7 @@ export const items = [
 		'id': 'dc-bobinaignicion7',
 		'name': 'Bobina Ignición Ford Fiesta/Ka 3 Pines',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -129,7 +129,7 @@ export const items = [
 		'id': 'dc-bobinaignicion8',
 		'name': 'Bobina Ignición Renault Clio',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -147,7 +147,7 @@ export const items = [
 		'id': 'dc-bobinaignicion9',
 		'name': 'Bobina Ignición Vw Golf/Bora 1,6 3 Pines',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -165,7 +165,7 @@ export const items = [
 		'id': 'dc-bobinaignicion10',
 		'name': 'Bobina Ignición Vw',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -183,7 +183,7 @@ export const items = [
 		'id': 'dc-bobinaignicion11',
 		'name': 'Bobina Ignición Vw Gol',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -201,7 +201,7 @@ export const items = [
 		'id': 'dc-bobinaignicion12',
 		'name': 'Bobina Ignición Vw Golf/Bora 1,6 4 Pines',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -219,7 +219,7 @@ export const items = [
 		'id': 'dc-electroventilador',
 		'name': 'Electroventilador Chevrolet Corsa 1.4 Nafta 94-96- 1.6',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -237,7 +237,7 @@ export const items = [
 		'id': 'dc-electroventilador2',
 		'name': 'Electroventilador Chevrolet Corsa Spirit - Classic 2012 Completo (Nuevo)',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -255,7 +255,7 @@ export const items = [
 		'id': 'dc-electroventilador3',
 		'name': 'Electroventilador Corsa Spirit - Classic 2012 >',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -273,7 +273,7 @@ export const items = [
 		'id': 'dc-electroventilador4',
 		'name': 'Electroventilador Chevrolet Corsa II 09> / Agile / Montana',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -291,7 +291,7 @@ export const items = [
 		'id': 'dc-electroventilador5',
 		'name': 'Electroventilador Chevrolet S10',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -309,7 +309,7 @@ export const items = [
 		'id': 'dc-electroventilador6',
 		'name': 'Electroventilador Sonic/Spin 1.3/1.8 Prisma 1.4 Onix 1.4- Cobalt 1.3/1.8 Ficha C/ Resistencia',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -327,7 +327,7 @@ export const items = [
 		'id': 'dc-electroventilador7',
 		'name': 'Electroventilador Chevrolet Meriva 1.8 2003/....',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -345,7 +345,7 @@ export const items = [
 		'id': 'dc-electroventilador8',
 		'name': 'Electroventilador Chevrolet Aveo 1.6 16v 2009/…',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -363,7 +363,7 @@ export const items = [
 		'id': 'dc-electroventilador9',
 		'name': 'Electroventilador Fiat Duna - Uno - 147 - Regatta Diesel',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -381,7 +381,7 @@ export const items = [
 		'id': 'dc-electroventilador10',
 		'name': 'Duna-Uno-147 M.Tipo Aspirante',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -399,7 +399,7 @@ export const items = [
 		'id': 'dc-electroventilador11',
 		'name': 'Electroventilador Palio 1.6 Sin A/A 230 W 1996/…',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -417,7 +417,7 @@ export const items = [
 		'id': 'dc-electroventilador12',
 		'name': 'Electroventilador Fire S/AA Uno 1.3 MPI- Celta 1.4 11/18',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -435,7 +435,7 @@ export const items = [
 		'id': 'dc-electroventilador13',
 		'name': 'Electroventilador Mobi - Uno Novo 1.0/1.4 2010/-> - Palio 2011/-> Fiorino 16/18 Mot. Evo',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -453,7 +453,7 @@ export const items = [
 		'id': 'dc-electroventilador14',
 		'name': 'Electroventilador Mobi - Uno Novo 1.0/1.4 2010/-> - Palio 2011/-> Fiorino 16/18 Mot. Evo',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -471,7 +471,7 @@ export const items = [
 		'id': 'dc-electroventilador15',
 		'name': 'Electroventilador Toro/Renegade 1.4 D /2.0 JTD (Lado Izq.) 2016/….',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -489,7 +489,7 @@ export const items = [
 		'id': 'dc-electroventilador16',
 		'name': 'Electroventilador Toro/Renegade 1.4 D /2.0 JTD (Lado Der.) 2016/….',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -507,7 +507,7 @@ export const items = [
 		'id': 'dc-electroventilador17',
 		'name': 'Electroventilador Fiat Uno/Fiorino/Palio/Siena 1.3/1.6 1996/…',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -525,7 +525,7 @@ export const items = [
 		'id': 'dc-electroventilador18',
 		'name': 'Electroventilador Palio-Uno Fire Naf.S/A.A.-Corsa 1.6 Naf. S/AA',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -543,7 +543,7 @@ export const items = [
 		'id': 'dc-electroventilador19',
 		'name': 'Electroventilador Fiat Qubo/Fiorino 1.4 2015/…',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -561,7 +561,7 @@ export const items = [
 		'id': 'dc-electroventilador20',
 		'name': 'Electroventilador Fiesta 1.3 (94/99) Max 1.4 TDI (02/11)',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -579,7 +579,7 @@ export const items = [
 		'id': 'dc-electroventilador21',
 		'name': 'Electroventilador Fiesta 1.6 99/02 C A/A- Ka 1.0/1.3/1.6',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -597,7 +597,7 @@ export const items = [
 		'id': 'dc-electroventilador22',
 		'name': 'Electroventilador Focus II 1.6/1.8/2.0 2008-2014 Comp.',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -615,7 +615,7 @@ export const items = [
 		'id': 'dc-electroventilador23',
 		'name': 'Electroventilador Ecosport Kinetic C/Encauzador 2010/..',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -633,7 +633,7 @@ export const items = [
 		'id': 'dc-electroventilador24',
 		'name': 'Electroventilador Ford Ranger',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -651,7 +651,7 @@ export const items = [
 		'id': 'dc-electroventilador25',
 		'name': 'Electroventilador Ford Ecosport Kinetik 1.6/2.0 > 13',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -669,7 +669,7 @@ export const items = [
 		'id': 'dc-electroventilador26',
 		'name': 'Electroventilador Nissan March',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -687,7 +687,7 @@ export const items = [
 		'id': 'dc-electroventilador27',
 		'name': 'Electroventilador Nissan Kicks 1.6 16v Flex C/Aa 2017/….',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -705,7 +705,7 @@ export const items = [
 		'id': 'dc-electroventilador28',
 		'name': 'Electroventilador Citroen Berlingo 1.4 1.8',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -723,7 +723,7 @@ export const items = [
 		'id': 'dc-electroventilador29',
 		'name': 'Electroventilador P. 206 Con Aire Acondicionado',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -741,7 +741,7 @@ export const items = [
 		'id': 'dc-electroventilador30',
 		'name': 'Electroventilador Peugeot 206 Sin Aire Acondicionado',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -759,7 +759,7 @@ export const items = [
 		'id': 'dc-electroventilador31',
 		'name': 'Electroventilador Citroen Berlingo 1.4- Xsara 1.8 16v-1.9d',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -777,7 +777,7 @@ export const items = [
 		'id': 'dc-electroventilador32',
 		'name': 'Electroventilador Peugeot Partner/Berlingo HDI 1.6 16v 2010/…',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -795,7 +795,7 @@ export const items = [
 		'id': 'dc-electroventilador33',
 		'name': 'Electroventilador P.307 C/Aa Aspir. - C4 - Picaso C/Aire Nafta/Diesel',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -813,7 +813,7 @@ export const items = [
 		'id': 'dc-electroventilador34',
 		'name': 'Electroventilador Peugeot 206/207 1.6 C/Sin AA',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -831,7 +831,7 @@ export const items = [
 		'id': 'dc-electroventilador35',
 		'name': 'Electroventilador P.206/P.207 1.6 16v 1998/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -849,7 +849,7 @@ export const items = [
 		'id': 'dc-electroventilador36',
 		'name': 'Electroventilador P.206/207 1.6 16v Comp. 1999/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -867,7 +867,7 @@ export const items = [
 		'id': 'dc-electroventilador37',
 		'name': 'Electroventilador P.207/P.301/Citroen C3 1.4/1.4 Hdi/1.6 16v 2003/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -885,7 +885,7 @@ export const items = [
 		'id': 'dc-electroventilador38',
 		'name': 'Electroventilador P.308/408/Partner - Berlingo C/Encauzador',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -903,7 +903,7 @@ export const items = [
 		'id': 'dc-electroventilador39',
 		'name': 'Electroventilador Peugeot P.207/ Partner/Berlingo 1.6 HDI 2010/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -921,7 +921,7 @@ export const items = [
 		'id': 'dc-electroventilador40',
 		'name': 'Electroventilador P.306/Partner 1.9 D 1995/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -939,7 +939,7 @@ export const items = [
 		'id': 'dc-electroventilador41',
 		'name': 'Electroventilador Renault 19 C A/C …98',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -957,7 +957,7 @@ export const items = [
 		'id': 'dc-electroventilador42',
 		'name': 'Electroventilador Renault Master 1998> C/Encauzador L/N Completo',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -975,7 +975,7 @@ export const items = [
 		'id': 'dc-electroventilador43',
 		'name': 'Electroventilador Renault Fluence 2.0',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -993,7 +993,7 @@ export const items = [
 		'id': 'dc-electroventilador44',
 		'name': 'Electroventilador Kwid 1.0 12v 2017/...',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1011,7 +1011,7 @@ export const items = [
 		'id': 'dc-electroventilador45',
 		'name': 'Electroventilador Kangoo 1.9 D 1999/2009',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1029,7 +1029,7 @@ export const items = [
 		'id': 'dc-electroventilador46',
 		'name': 'Renault Logan 1.6 Nafta 2014> - Sandero Nafta 1.6 Sin Encausador',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1047,7 +1047,7 @@ export const items = [
 		'id': 'dc-electroventilador47',
 		'name': 'Renault Logan 1.6 Nafta 2014> - Sandero Nafta 1.6 Con Encausador',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1065,7 +1065,7 @@ export const items = [
 		'id': 'dc-electroventilador48',
 		'name': 'Electroventilador Renault Logan 2/Duster/Sandero 1.4/1.6 16v 2014/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1083,7 +1083,7 @@ export const items = [
 		'id': 'dc-electroventilador49',
 		'name': 'Electroventilador Toyota Etios 1.5 Comp. C/Deposito',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1101,7 +1101,7 @@ export const items = [
 		'id': 'dc-electroventilador50',
 		'name': 'Electroventilador Vw Gacel/Senda/Gol (Modelo Viejo)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1119,7 +1119,7 @@ export const items = [
 		'id': 'dc-electroventilador51',
 		'name': 'Electroventilador Gol 3rd Generation - Pointer/Saveiro Sin Aire Acondicionado',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -1135,9 +1135,9 @@ export const items = [
 
 	{
 		'id': 'dc-electroventilador52',
-		'name': 'Electroventilador Astra-Gol III- Gol Power- Pointer C/Aa',
+		'name': 'Electroventilador Astra-Gol III- Gol Power- Pointer C/AA',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -1155,7 +1155,7 @@ export const items = [
 		'id': 'dc-electroventilador53',
 		'name': 'Electroventilador Volkswagen Polo Classic 1.6 - 1.8 Nafta',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -1173,7 +1173,7 @@ export const items = [
 		'id': 'dc-electroventilador54',
 		'name': 'Electroventilador Volkswagen Fox/Suran (Diam 350 Mm)',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -1191,7 +1191,7 @@ export const items = [
 		'id': 'dc-electroventilador55',
 		'name': 'Electroventilador Volkswagen Fox/Suran (Diam 350 Mm)',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -1209,7 +1209,7 @@ export const items = [
 		'id': 'dc-electroventilador56',
 		'name': 'Electroventilador Volkswagen Fox - Suran - Gol Trend Con Aire',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -1227,7 +1227,7 @@ export const items = [
 		'id': 'dc-electroventilador57',
 		'name': 'Electroventilador Volkswagen Fox - Suran - Gol Trend S/AA Comp.',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -1245,7 +1245,7 @@ export const items = [
 		'id': 'dc-electroventilador58',
 		'name': 'Electroventilador Vw Bora/Golf/Audi A3 Grande',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -1263,7 +1263,7 @@ export const items = [
 		'id': 'dc-electroventilador59',
 		'name': 'Electroventilador Golf IV - Bora (Principal)',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -1281,7 +1281,7 @@ export const items = [
 		'id': 'dc-electroventilador60',
 		'name': 'Electroventilador Vw Bora/Golf/Audi A3 Chico',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -1299,7 +1299,7 @@ export const items = [
 		'id': 'dc-electroventilador61',
 		'name': 'Electroventilador Polo Classic 1.6/1.8 - 1.9 D (Der)',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -1317,7 +1317,7 @@ export const items = [
 		'id': 'dc-kitembrague',
 		'name': 'Kit Clutch Fiat  500  1.3 D   2007/….',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1333,7 +1333,7 @@ export const items = [
 		'id': 'dc-kitembrague2',
 		'name': 'Kit Clutch P.206 (3 En 1)  1.6 16v (Tu5jp4) 200 X 18  1998/…',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1349,7 +1349,7 @@ export const items = [
 		'id': 'dc-kitembrague3',
 		'name': 'Kit Clutch P.307/Partner 1.6 16v 2000/… (3 En 1)',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1365,7 +1365,7 @@ export const items = [
 		'id': 'dc-kitembrague4',
 		'name': 'Kit Clutch  P.205/P.405  1.6  16v  1989/1996',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1381,7 +1381,7 @@ export const items = [
 		'id': 'dc-kitembrague5',
 		'name': 'Kit Clutch 207/308/Partner 1.6 Hdi  2008/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1397,7 +1397,7 @@ export const items = [
 		'id': 'dc-kitembrague6',
 		'name': 'Kit Peugeot 207 1.4 ,1.6 16v 2009/…   200*28 (3 Pcs)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1413,7 +1413,7 @@ export const items = [
 		'id': 'dc-kitembrague7',
 		'name': 'Kit Citroen Berlingo /Saxo / P106/206 1.1/1.4/1.6 00-',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1429,7 +1429,7 @@ export const items = [
 		'id': 'dc-kitembrague8',
 		'name': 'Kit Citroen Xsara Picasso (N68) 1.6 99-',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1445,7 +1445,7 @@ export const items = [
 		'id': 'dc-kitembrague9',
 		'name': 'Kit Clutch Duster/Nissan Terrano 2.0 16v 2012/…. (2 En 1)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1461,7 +1461,7 @@ export const items = [
 		'id': 'dc-kitembrague10',
 		'name': 'Kit Clutch Clio III/Megane II/Fluence 2.0 16v 2007/… (2 En 1)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1477,7 +1477,7 @@ export const items = [
 		'id': 'dc-kitembrague11',
 		'name': 'Kit Clutch Kangoo/Logan/Sandero 1.6 16v 2001/… (2 En 1)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1493,7 +1493,7 @@ export const items = [
 		'id': 'dc-kitembrague12',
 		'name': 'Kit Clutch Kwid 1.0 2017/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1509,7 +1509,7 @@ export const items = [
 		'id': 'dc-kitembrague13',
 		'name': 'Kit Clutch Foton Aumark  5000 3.8 D   2008/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1525,7 +1525,7 @@ export const items = [
 		'id': 'dc-bombacombustible',
 		'name': 'Bomba De Combustible 1.0 Bar 150 L/H - A.Romeo-Daewoo',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1543,7 +1543,7 @@ export const items = [
 		'id': 'dc-bombacombustible2',
 		'name': 'Bomba De Combustible S10- Blazer /Mwm 2.8TD',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1561,7 +1561,7 @@ export const items = [
 		'id': 'dc-bombacombustible3',
 		'name': 'Bomba De Combustible Cruze 1.8 16v Comp.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1579,7 +1579,7 @@ export const items = [
 		'id': 'dc-bombacombustible4',
 		'name': 'Bomba Combustible 3 Bar Fiat',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1597,7 +1597,7 @@ export const items = [
 		'id': 'dc-bombacombustible5',
 		'name': 'Bomba Combustible 3 Bar Fiat',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1615,7 +1615,7 @@ export const items = [
 		'id': 'dc-bombacombustible6',
 		'name': 'Bomba De Combustible Palio 1.4 8v 2004> Comp.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1633,7 +1633,7 @@ export const items = [
 		'id': 'dc-bombacombustible7',
 		'name': 'Bomba De Combustible 207-307 1.6-2.0 16v. Comp.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1651,7 +1651,7 @@ export const items = [
 		'id': 'dc-bombacombustible8',
 		'name': 'Bomba De Combustible 307 1.6 2.0 HDI Comp.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1669,7 +1669,7 @@ export const items = [
 		'id': 'dc-bombacombustible9',
 		'name': 'Bomba De Combustible Renault Logan-Sandero',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1687,7 +1687,7 @@ export const items = [
 		'id': 'dc-bombacombustible10',
 		'name': 'Bomba De Combustible Clio II 1.1 - 1.2 Comp.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1705,7 +1705,7 @@ export const items = [
 		'id': 'dc-bombacombustible11',
 		'name': 'Bomba De Combustible Logan/Sandero Comp.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1723,7 +1723,7 @@ export const items = [
 		'id': 'dc-bombacombustible12',
 		'name': 'Bomba De Combustible Hilux 2.5 TD 2008> Comp.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1741,7 +1741,7 @@ export const items = [
 		'id': 'dc-bombacombustible13',
 		'name': 'Bomba De Combustible Hilux Sw4 TD 2006 Comp.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1759,7 +1759,7 @@ export const items = [
 		'id': 'dc-bombacombustible14',
 		'name': 'Bomba De Combustible Vw Gol Comp.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1777,7 +1777,7 @@ export const items = [
 		'id': 'dc-bombacombustible15',
 		'name': 'Bomba De Combustible Polo 1.6/1.8 99/.. Comp.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1795,7 +1795,7 @@ export const items = [
 		'id': 'dc-bombacombustible16',
 		'name': 'Bomba De Combustible 1.0 Bar 104 C/Kit Básico',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1813,7 +1813,7 @@ export const items = [
 		'id': 'dc-bombacombustible17',
 		'name': 'Bomba De Combustible 3.0 Bar C/ Kit Básico',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1831,7 +1831,7 @@ export const items = [
 		'id': 'dc-inyectores',
 		'name': 'Inyector De Combustible 307/C4 2.0 16v',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1847,7 +1847,7 @@ export const items = [
 		'id': 'dc-inyectores2',
 		'name': 'Inyector Peugeot 206',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1863,7 +1863,7 @@ export const items = [
 		'id': 'dc-poleas',
 		'name': 'Polea Tensora Mini Clubman R55 Cooper',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1879,7 +1879,7 @@ export const items = [
 		'id': 'dc-poleas2',
 		'name': 'Polea Tensora Mini Mini (R50, R53) Cooper S',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1895,7 +1895,7 @@ export const items = [
 		'id': 'dc-poleas3',
 		'name': 'Polea Tensora Mini Mini R50 R53 Cooper',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1911,7 +1911,7 @@ export const items = [
 		'id': 'dc-poleas4',
 		'name': 'Polea Cigueñal Megane II/Megane III 1.9 DCI 2002/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1927,7 +1927,7 @@ export const items = [
 		'id': 'dc-poleas5',
 		'name': 'Polea Loca Clio II 1.4 16v /1.6 16v/Megane II 1.4 16v/Clio III 1.6 16v',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1943,7 +1943,7 @@ export const items = [
 		'id': 'dc-poleas6',
 		'name': 'Polea Tensora 207 1.4 16v 2009/….',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1959,7 +1959,7 @@ export const items = [
 		'id': 'dc-poleas7',
 		'name': 'Polea Viscosa Chevrolet S10 - Blazer 2.8 Motor M.W.M (01/04)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1975,7 +1975,7 @@ export const items = [
 		'id': 'dc-poleas8',
 		'name': 'Polea Viscosa Chevrolet S10/Trailblazer 2014/….',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1991,7 +1991,7 @@ export const items = [
 		'id': 'dc-poleas9',
 		'name': 'Polea Viscosa Ford Ranger/ Aerostar 3.0lts V6',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2007,7 +2007,7 @@ export const items = [
 		'id': 'dc-poleas10',
 		'name': 'Polea Viscosa Maxion 2.5/2.8 (4 Agujeros) 1997/2007',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2023,7 +2023,7 @@ export const items = [
 		'id': 'dc-poleas11',
 		'name': 'Polea Viscosa Mercedes Sprinter/S10/Blazer 2.8/3.0 Mwm',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2039,7 +2039,7 @@ export const items = [
 		'id': 'dc-poleas12',
 		'name': 'Polea Viscosa Mitsubishi L200 4x4 2,4 96/L-300 (Oem 1320a009)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2055,7 +2055,7 @@ export const items = [
 		'id': 'dc-poleas13',
 		'name': 'Polea Viscosa Suzuki Grand Vitara Nafta/Dsl Motor L4 1800',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2071,7 +2071,7 @@ export const items = [
 		'id': 'dc-poleas14',
 		'name': 'Polea Viscosa Toyota Hilux 3,0 2,5 Motor 1kz / 2kz / 1kd (05/..)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2087,7 +2087,7 @@ export const items = [
 		'id': 'dc-poleas15',
 		'name': 'Polea Viscosa Toyota Hilux 2.4 -2.8 Lts Sr5 Diesel 95',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2103,7 +2103,7 @@ export const items = [
 		'id': 'dc-resistenciaelectroventilador',
 		'name': 'Resistencia Electroventilador Clio II/Megane 1997/… (0,69 OHM)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
